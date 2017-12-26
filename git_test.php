@@ -10,3 +10,4 @@
 echo "太low了 git都不熟练，这怎么能行";
 
 echo 1;
+echo 2;
